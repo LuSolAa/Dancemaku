@@ -3,9 +3,7 @@
 
 ## Un film qui change dépendant de vos émotions.
 
-### Analyse des besoins
-
-1. Le public cible
+### Le public cible
 
 - Le public cible inclut ceux qui sont passionnés par la technologie, les amateurs du cinéma et des grands évènements comme des expositions.
 
@@ -13,7 +11,7 @@
 
 - L'opportunité que je souhaite offrir est une expérience cinématographique qui est complètement différente d'un film linéaire.
 
-2. Présentation du concept
+### Présentation du concept
 
 - Les cinq éléments importants.
 
@@ -41,7 +39,7 @@ Une paire de lunettes avec des caméras et des microphones.
 
 Pour ceux qui sont des amateurs de cinéma, il y aura une immersion totale et une implication émotionnelle leur donnant une expérience jamais vécue. Pour ceux qui sont passionnés par la technologie, ils vont voir une nouvelle façon d'utiliser le suivi du visage et de l'impliquer dans des projets.
 
-3. Les tâches principales.
+### Les tâches principales.
 
 - Les quatre phases de production et leur liste de tâches.
 
@@ -53,7 +51,7 @@ Pour ceux qui sont des amateurs de cinéma, il y aura une immersion totale et un
 
 **Opération :** faire la surveillance, les mises à jour et la modération. Dans ce cas, faire la promotion, la maintenance technique et faire des évolutions futures.
 
-4. Conclusion
+### Conclusion
 
 - Ce qui rend le projet innovant est qu'il n'y a pas de film qui change en temps réel de scènes dépendant des émotions de l'utilisateur.
 
