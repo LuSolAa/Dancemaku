@@ -27,17 +27,13 @@ Les cinq éléments importants.
 
 Les choix technologiques seront :
 
-- La reconnaissance faciale.
-
-- L'analyse d'audio.
+- Un casque qui peut detecter les émotions par le cerveau.
 
 - Un logiciel qui peut changer de scène en temps réel.
 
-- Une paire de lunettes avec des caméras et des microphones.
-
 En quoi le concept répond aux attentes du public cible ?
 
-**Pour ceux qui sont des amateurs de cinéma, il y aura une immersion totale et une implication émotionnelle leur donnant une expérience jamais vécue. Pour ceux qui sont passionnés par la technologie, ils vont voir une nouvelle façon d'utiliser le suivi du visage et de l'impliquer dans des projets.**
+**Pour ceux qui sont des amateurs de cinéma, il y aura une immersion totale et une implication émotionnelle leur donnant une expérience jamais vécue. Pour ceux qui sont passionnés par la technologie, ils vont voir une nouvelle façon d'utiliser le cerveau et les émotions.**
 
 ### Les tâches principales.
 
