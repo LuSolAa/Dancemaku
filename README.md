@@ -47,6 +47,29 @@ En quoi le concept répond aux attentes du public cible ?
 
 **Opération :** faire la surveillance, les mises à jour et la modération. Dans ce cas, faire la promotion, la maintenance technique et faire des évolutions futures.
 
+### Structure narrative
+
+- Le film commence normalement et le protagoniste fait face a des conflits de tous les jours.
+
+- Dépendant de comment le spectateur réagit aux conflits, la prochaine scène change et l’histoire se diverge.
+
+- À la finale, dépendant de comment le spectateur à ressenti, le film peut ou se finir soudainement, ou se finir lentement avec suspens.
+
+### Thèmes 
+
+- L’histoire est basée sur le biais émotionnel
+
+- Il y a beaucoup de choses qui sont basé seulement sur la réaction.
+
+### Langage visuel
+
+- Ton de lumière par luminosité et couleur
+
+- Scènes différentes par branche
+
+[Moodboard](https://i.ibb.co/prbRPxWK/Moodboard-1.jpg)
+[screenshot](https://i.ibb.co/pqZ4MzS/screenshotfrommovie.png)
+
 ### Conclusion
 
 - Ce qui rend le projet innovant est qu'il n'y a pas de film qui change en temps réel de scènes dépendant des émotions de l'utilisateur.
@@ -55,5 +78,3 @@ En quoi le concept répond aux attentes du public cible ?
 
 - La raison pour laquelle il pourrait attirer des investisseurs Kickstarter est parce que, en investissant dedans, il y aurait plus de films qui seraient produits.
 
-[Moodboard](https://i.ibb.co/prbRPxWK/Moodboard-1.jpg)
-[screenshot](https://i.ibb.co/pqZ4MzS/screenshotfrommovie.png)
